@@ -11,6 +11,7 @@ end
 gem 'sass-rails', ' 4.0.5'
 gem 'uglifier', '2.1.1'
 gem 'coffee-rails', '4.0.1'
+gem 'coffee-script-source', '1.8.0'
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer',  platforms: :ruby
 
